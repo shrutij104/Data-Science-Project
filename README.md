@@ -87,10 +87,6 @@ Used metrics:
 ## ✅ Final Model Performance (LightGBM)
 
 - **Accuracy**: **87.25%**
-- **Precision**: *Available in notebook*
-- **Recall**: *Available in notebook*
-- **F1-Score**: *Available in notebook*
-- **ROC AUC**: *Available in notebook*
 
 ---
 
@@ -123,7 +119,5 @@ Models were evaluated on:
 - Joblib for model saving
 
 ---
-
-## 📂 File Structure
 
 
